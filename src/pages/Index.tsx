@@ -116,7 +116,7 @@ const Index = () => {
 
       <section 
         className="relative min-h-screen flex items-center justify-center bg-cover bg-center bg-fixed"
-        style={{ backgroundImage: `url('https://cdn.poehali.dev/projects/79a51910-729a-4fe2-98ce-428f8410d123/files/eeeba0db-6d8f-46fe-a854-3dd15badade4.jpg')` }}
+        style={{ backgroundImage: `url('https://cdn.poehali.dev/projects/79a51910-729a-4fe2-98ce-428f8410d123/files/b114b7b1-455e-4311-a44b-814d45bd8b6c.jpg')` }}
       >
         <div className="absolute inset-0 bg-black/60 backdrop-blur-sm" />
         <div className={`container mx-auto px-4 relative z-10 text-center ${isVisible ? 'animate-fade-up' : 'opacity-0'}`}>
